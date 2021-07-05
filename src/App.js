@@ -40,10 +40,7 @@ class App extends React.Component {
       );
   }
   componentDidMount(){
-    console.log(`
-    author: yiping
-    email: yiping.huang@student.maastrichtuniversity.nl
-    `)
+
   }
   //remove one record from history and update state
   removeOne = () => {
