@@ -1,0 +1,27 @@
+.btn {
+  padding:1rem 1rem;
+  text-align: center;
+  border: none;
+  color: #ffffff;
+  /* font-size: 1.5rem; */
+  background-color: #222;
+  border-radius: 999rem;
+  transition: all 0.3s;
+}
+.btn:disabled {
+  background-color: #ccc;
+}
+.btn:disabled:hover{
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.btn:hover{
+  cursor: pointer;
+  background-color: #494949;
+  
+}
+.btn.daylight{
+  background-color: white;
+  color: black;
+}

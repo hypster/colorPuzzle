@@ -1,0 +1,53 @@
+.Menu {  
+  margin: 0 auto;
+  color: #222;
+}
+.Menu h1{
+  font-weight: 700;
+}
+.Menu.dark h1{
+  color: white;
+}
+.MenuItem{
+  width: 10rem;
+  height: 10rem;
+  padding:1rem;
+  line-height: 8rem;
+  display: inline-block;
+  margin: 1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: 800;
+  background-color: #fff;
+  text-transform: uppercase;
+}
+
+.Menu .headerWrap{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.headerWrap h1{
+  font-size: 3rem;
+}
+
+.Menu .display {
+  text-transform: uppercase;
+  width: 10rem;
+}
+.Menu .fixBg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0 auto;
+  max-width: 800px;
+  background-color: floralwhite;
+}
+.Menu .fixBg.dark{
+  background-color:#222;
+}
+.Menu .contentWrap{
+  position: relative;
+  z-index: 100;
+}
