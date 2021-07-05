@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/colorPuzzle/static/css/main.79dfdd11.chunk.css",
-    "main.js": "/colorPuzzle/static/js/main.fba25e5e.chunk.js",
-    "main.js.map": "/colorPuzzle/static/js/main.fba25e5e.chunk.js.map",
+    "main.js": "/colorPuzzle/static/js/main.0786d7e5.chunk.js",
+    "main.js.map": "/colorPuzzle/static/js/main.0786d7e5.chunk.js.map",
     "runtime-main.js": "/colorPuzzle/static/js/runtime-main.92e5c989.js",
     "runtime-main.js.map": "/colorPuzzle/static/js/runtime-main.92e5c989.js.map",
     "static/js/2.de55da19.chunk.js": "/colorPuzzle/static/js/2.de55da19.chunk.js",
     "static/js/2.de55da19.chunk.js.map": "/colorPuzzle/static/js/2.de55da19.chunk.js.map",
     "index.html": "/colorPuzzle/index.html",
-    "precache-manifest.eb12ab4ef377131cb3be4f081a401fed.js": "/colorPuzzle/precache-manifest.eb12ab4ef377131cb3be4f081a401fed.js",
+    "precache-manifest.bcfcf8eef1484bf96e71cc78d242d00a.js": "/colorPuzzle/precache-manifest.bcfcf8eef1484bf96e71cc78d242d00a.js",
     "service-worker.js": "/colorPuzzle/service-worker.js",
     "static/css/main.79dfdd11.chunk.css.map": "/colorPuzzle/static/css/main.79dfdd11.chunk.css.map",
     "static/js/2.de55da19.chunk.js.LICENSE.txt": "/colorPuzzle/static/js/2.de55da19.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92e5c989.js",
     "static/js/2.de55da19.chunk.js",
     "static/css/main.79dfdd11.chunk.css",
-    "static/js/main.fba25e5e.chunk.js"
+    "static/js/main.0786d7e5.chunk.js"
   ]
 }

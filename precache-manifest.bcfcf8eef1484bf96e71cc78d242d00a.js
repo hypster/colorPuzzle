@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24bbb614922160962448bbfb697430ca",
+    "revision": "7ed8b9c92479c924752343a0f73bf297",
     "url": "/colorPuzzle/index.html"
   },
   {
-    "revision": "7a33cfac0e7b2e462564",
+    "revision": "a8e0aff042009b817e4b",
     "url": "/colorPuzzle/static/css/main.79dfdd11.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colorPuzzle/static/js/2.de55da19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a33cfac0e7b2e462564",
-    "url": "/colorPuzzle/static/js/main.fba25e5e.chunk.js"
+    "revision": "a8e0aff042009b817e4b",
+    "url": "/colorPuzzle/static/js/main.0786d7e5.chunk.js"
   },
   {
     "revision": "fcfad10162379bb3a439",
